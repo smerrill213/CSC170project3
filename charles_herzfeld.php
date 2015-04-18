@@ -6,7 +6,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Charles Herzfeld -- Project 3</title>
-		<link rel="stylesheet" href="css/styles.css">
+		<?php include "inc/css.inc" ?>
 	</head>
 
 	<body>
@@ -15,18 +15,7 @@
 
 		<?php include "inc/header.php" ?>
 
-			<div class="headerbox">
-			
-
-				<!--
-				<header>
-		            <h1>Charles Herzfeld</h1>
-		        </header>
-
-		        <?php include "inc/nav.inc" ?>
-		    	-->
-
-	    	</div>
+		 <h1>Charles Herzfeld</h1>
 
 		<article>
 

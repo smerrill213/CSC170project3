@@ -5,7 +5,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Sister Mary Kenneth Keller -- Project 3</title>
-		<link rel="stylesheet" href="css/styles.css">
+		<?php include "inc/css.inc" ?>
 		<style>
 			table, th, td {
 			    border: 1px solid black;
@@ -21,13 +21,9 @@
 
 		<div class="container">
 
-		<div class="headerbox">
-			<header>
-				<h1>Sister Mary Kenneth Keller</h1>
-			</header>
+		<?php include "inc/header.php" ?>
 
-			<?php include "inc/nav.inc" ?>
-		</div>
+		<h1>Sister Mary Kenneth Keller</h1>
 
 		<article>
 
@@ -168,7 +164,8 @@
 				<li><a href="http://www.clarke.edu/media/files/Academics/Departments/Computer_Science/First%20PhD%20Additional%20Ifo.pdf">Who Earned the First Compuer Science PhD?</a></li>
 				<li><a href = "http://www.elementsofgraceva.com/blog/2012/11/09/3g-woman-in-technology-sister-mary-kenneth-keller/"> 3G Women in Technology</a></li>
 				<li><a href = "http://en.wikipedia.org/wiki/BASIC">BASIC</a></li>
-
+				<li><a href="http://en.wikipedia.org/wiki/Mary_Kenneth_Keller">Wikipedia</a></li>
+				
 			</ul>
 
 		</footer>

@@ -6,22 +6,16 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Marc Andreessen -- Project 3</title>
-		<link rel="stylesheet" href="css/styles.css">
+		<?php include "inc/css.inc" ?>
 	</head>
 
 	<body>
 
 		<div class="container">
 
-		<div class="headerbox">
+		<?php include "inc/header.php" ?>
 
-			<header>
-				<h1> Marc Andreessen </h1>
-			</header>
-
-			<?php include "inc/nav.inc" ?>
-
-		</div>
+		<h1> Marc Andreessen </h1>
 
 	<article>
 
