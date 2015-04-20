@@ -109,7 +109,6 @@ header {
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 100%;
-	border: 5px solid #000000;
 }
 
 @media (max-width: 960px) {
@@ -118,7 +117,7 @@ header {
 	}*/
 	header {
 		display: block;
-		background-image: none;
+		border: none;
 	}
 	.menu ul {
 		border: 3px solid #95AFBA;
