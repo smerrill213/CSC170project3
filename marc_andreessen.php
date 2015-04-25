@@ -127,6 +127,13 @@
 			</ul>
 		</footer>
 
+		<div class="source">
+			<strong>
+			Project 1 source:
+			<a href="http://ahosain.rochestercs.org/project1/" target="_blank">Marc Andreessen</a>
+			</strong>
+		</div>
+
 		<?php include "inc/footer.inc" ?>
 
 	</div>

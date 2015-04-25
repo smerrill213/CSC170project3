@@ -114,7 +114,7 @@
 
 			<div class="safety">
 				<h2>An important message about internet safety:</h2>
-				<img src="images/safety1.jpg" alt="INTERNET SAFETY">
+				<img src="images/safety2.png" alt="INTERNET SAFETY">
 			</div>
 
 		</div>
@@ -127,6 +127,13 @@
 				<li><a href="http://www.zakon.org/robert/internet/timeline/" target="_blank">Hobbes' Internet Timeline 12</a></li>
 			</ul>
 		</footer>
+	
+		<div class="source">
+			<strong>
+			Project 2 source:
+			<a href="http://smerrill.rochestercs.org/project2/" target="_blank">Charles Herzfeld</a>
+			</strong>
+		</div>
 
 		<?php include "inc/footer.inc" ?>
 

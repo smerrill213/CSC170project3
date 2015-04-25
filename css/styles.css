@@ -51,7 +51,7 @@ figcaption {
 .menu {
 	margin: 0 .5em;
 	vertical-align: bottom;
-	height: 8vh;
+	/*height: 8vh;*/
 }
 
 .menu ul {
@@ -98,8 +98,12 @@ article {
 	width: 60%;
 }
 
-.citations a {
+.citations a, .source a {
 	color: #444444;
+}
+
+.citations a:hover, .source a:hover {
+	opacity: .6;
 }
 
 .menu .current a {
@@ -182,7 +186,7 @@ header h1 {
 
 }*/
 
-@media (max-width: 865px) {
+@media (max-width: 895px) {
 	.menu ul {
 		display: block;
 		margin: 0 auto;

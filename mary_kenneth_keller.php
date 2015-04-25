@@ -178,6 +178,13 @@
 			</ul>
 		</footer>
 
+		<div class="source">
+			<strong>
+			Project 1 source:
+			<a href="http://akhalid.rochestercs.org/project1/" target="_blank">Mary Kenneth Keller</a>
+			</strong>
+		</div>
+
 		<?php include "inc/footer.inc" ?>
 
 	</div>
